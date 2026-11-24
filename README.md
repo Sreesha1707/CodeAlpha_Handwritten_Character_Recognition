@@ -47,7 +47,7 @@ CodeAlpha_Handwritten_Character_Recognition/
 
 1. Clone the repository:
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Sreesha1707/CodeAlpha_Handwritten_Character_Recognition
 ```
 
 2. Open the project folder:
